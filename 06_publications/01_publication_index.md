@@ -180,7 +180,7 @@ It is designed not as a static bibliography, but as a living governance research
 
 ## Citation
 
-Sidara Veyn — Governance Attack Surface Analysis: Structural Vulnerabilities in DAO Decision-Making Systems
+Sidara Veyn — Publication Index: Sidara Veyn Research Lab
 
 Systems Architect — AI-Native Governance & Protocol Design
 
